@@ -1,6 +1,7 @@
-# shortCurtUrl
+﻿# shortCurtUrl
 
-Projeto criado idealizado pela DIO com a orientação da Alexia Santos, consiste em um encurdador de Urls. Foi desenvolvido usando Node e Typecript, e o banco de dados MongoDB.
+
+Encurtador de URLs desenvolvido em Node e Typecript, com banco MongoDB.
 
 ## Como rodar o projeto
 
